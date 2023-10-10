@@ -1,20 +1,20 @@
-Sample Application with Hanko Integration
+**Sample Application with Hanko Integration**
 
 To run this application locally, follow these steps:
 
-Register Your URL with Hanko:
+**Register Your URL with Hanko:**
 Go to https://cloud.hanko.io/ and create an account or log in.
 Once logged in, register your local development URL with Hanko. This step is necessary for Hanko to recognize and allow requests from your local environment. 
 
 Update the API URL in the environment configuration file to point to your Hanko integration. 
 
-Install Dependencies:
+**Install Dependencies:**
 Open a terminal/command prompt and navigate to your project directory.
 Run the following command to install project dependencies using npm:
 
 npm install
 
-Start the Application:
+**Start the Application:**
 After installing dependencies, you can start the application locally. Use the following 
 
 ng serve
